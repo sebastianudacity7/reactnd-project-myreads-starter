@@ -1,8 +1,8 @@
 # MyReads Project
 
 MyReads project with two additional features
-1) Show My Books toogle - allows to hide books from my reads on the search page
-2) Search page URL query params - search page loads from URL query paras and updates it using search query and the show my books toggle 
+1) Show My Books toogle - allows to hide books from my reads on the search page.
+2) Search page URL query params - search page loads from URL query params and updates it using search query and the show my books toggle.
 
 ## TL;DR
 
