@@ -53,7 +53,7 @@ body, .app {
   bottom: 25px;
 }
 
-.open-search button {
+.open-search  {
   display: block;
   width: 50px;
   height: 50px;
@@ -149,10 +149,16 @@ button:active {
 
 .book-title {
   margin-top: 10px;
+  margin-bottom: 1px;
 }
 
 .book-authors {
+  margin-top: 01x;
   color: #999;
+}
+
+.book-author {
+  height: 8px;
 }
 
 .book-top {
